@@ -82,6 +82,7 @@ with open(file_to_load) as election_data:
     print(winning_candidate_summary)
 
 
+#Done up to lesson 3.5.6
 #print(f"{candidate}: received {vote_percentage}% of the vote.")
 # Print the candidate vote dictionary
 #print(candidate_votes)
